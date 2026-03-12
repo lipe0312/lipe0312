@@ -13,11 +13,15 @@ Currently, I am bridging the gap between physical systems and advanced computati
 
 ### 🛠️ What I'm Building
 * **Smart Lock Project :** Leading the development of a security system using **Computer Vision (Facial Recognition)** and **NFC** validation. It's a blend of high-level AI and low-level hardware actuation via ESP32.
-* **Academic Teaching:** Assisting peers in **Computer Networks** and **Assembly**, because I believe mastering the low-level fundamentals is key to building high-level innovations.
+* **Palm Vein Touchless:** Building a high-security, anti-spoofing biometric access system using Near-Infrared (NIR) vascular mapping. The core engine relies on fine-tuning ResNet models via Deep Metric Learning to achieve near-zero false positive rates for edge hardware deployment.
+* **UAV project:** Engineering an autonomous Edge AI drone for precision agriculture and rural security (Night Watch). Fusing **Thermal Vision** and **YOLO** for real-time human/livestock classification and autonomous navigation.
+* **Academic Teaching:** Assisting peers in **Computer Networks** and **Assembly**
+* **Financial Intelligence Dashboard:** Building a modern, full-stack personal finance tracker (React, Tailwind) featuring interactive data visualization (Recharts) for strategic insights.
+
 
 
 ### 💻 Tech Stack
-* **Languages:** `Python` (Machine Learning & Data), `Java` (OOP), `C/C++` (Embedded), `Assembly` (Low-level), `JavaScript`.
+* **Languages:** `Python`, `Java`, `C/C++` (.ino), `Assembly`, `JavaScript`, `React`.
 * **AI/ML Tools:** YOLO (Ultralytics), OpenCV, Pandas, Face_recognition.
 * **Hardware/IoT:** ESP32, MQTT, Communication Protocols, Digital-Analog integration.
 * **Tools:** Linux, SQL, Git/GitHub, LaTeX.
