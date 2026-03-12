@@ -12,7 +12,7 @@ Currently, I am bridging the gap between physical systems and advanced computati
 
 
 ### 🛠️ What I'm Building
-* **Smart Lock Project (UFBA/UNIFACS):** Leading the development of a security system using **Computer Vision (Facial Recognition)** and **NFC** validation. It's a blend of high-level AI and low-level hardware actuation via ESP32.
+* **Smart Lock Project :** Leading the development of a security system using **Computer Vision (Facial Recognition)** and **NFC** validation. It's a blend of high-level AI and low-level hardware actuation via ESP32.
 * **Academic Teaching:** Assisting peers in **Computer Networks** and **Assembly**, because I believe mastering the low-level fundamentals is key to building high-level innovations.
 
 
