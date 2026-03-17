@@ -4,27 +4,21 @@ I am a Computer Science student at **Universidade Federal da Bahia (UFBA)** driv
 
 
 ### 🧠 Research & Innovation Focus
-Currently, I am bridging the gap between physical systems and advanced computation. My technical playground includes:
 
 * **Quantum Intelligence:** Exploring the potential of **Quantum Neural Networks (QNN)** and **Quantum Federated Learning (QFL)**.
-* **Digital Twins & IoT:** Crafting virtual replicas of physical assets to optimize real-world performance, built on my experience with hardware-software integration and the **MQTT** protocol.
+* **Industry 4.0 & IoT** Digital Twins and advanced hardware-software integration using Augmented Reality(AR) and Computer Vision for innovative industrial solutions.
 * **Distributed Learning:** Designing systems where intelligence is decentralized, ensuring efficiency and robustness in IoT networks.
+* **Computer Vision:** Core foundation for autonomous systems, focusing on real-time object detection and spatial awareness.
+* **Neural Networks:** Deep Learning expertise with a focus on classification and detection architectures like ResNet and YOLO.
+* **Deep Tech Entrepreneurship:** Developing innovation-driven solutions to bridge the gap between academic research and industrial applications.
 
 
 ### 🛠️ What I'm Building
 * **Smart Lock Project :** Leading the development of a security system using **Computer Vision (Facial Recognition)** and **NFC** validation. 
-* **Palm Vein Touchless:** Building a high-security, anti-spoofing biometric access system using Near-Infrared (NIR) vascular mapping. The core engine relies on fine-tuning validated models via Deep Metric Learning.
-* **UAV project:** Engineering an autonomous Edge AI drone for precision agriculture and rural security (Night Watch). Fusing **Thermal Vision** and **YOLO** for real-time human/livestock classification and autonomous navigation.
+* **Palm Vein Touchless:** High-security biometric access using NIR vascular mapping and Deep Metric Learning.
+* **UAV project:** Autonomous Edge AI drone for precision agriculture using Thermal Vision and YOLO.
 * **Academic Teaching:** Assisting peers in **Computer Networks** and **Assembly**
-* **Financial Intelligence Dashboard:** Building a modern, full-stack personal finance tracker (React, Tailwind) featuring interactive data visualization (Recharts) for strategic insights.
-
-
-
-### 💻 Tech Stack
-* **Languages:** `Python`, `Java`, `C/C++` (.ino), `Assembly`, `JavaScript`, `React`.
-* **AI/ML Tools:** YOLO (Ultralytics), OpenCV, Pandas, Face_recognition.
-* **Hardware/IoT:** ESP32, MQTT, Communication Protocols, Digital-Analog integration.
-* **Tools:** Linux, SQL, Git/GitHub, LaTeX.
+* **Financial Intelligence Dashboard:** Full-stack dashboard (React, Tailwind) for strategic data visualization using LLM's.
 
 
 ### 🌐 Let's Connect
